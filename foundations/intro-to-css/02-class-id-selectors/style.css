@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+
+.one{
+    background-color: pink;
+}
+
+#two{
+    color: blue;
+    font-size: 25px;
+}
+
+.three{
+    background-color: pink;
+    font-size: 20px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-weight: bold 100;
+}
+
+.five{
+    background-color: pink;
+}
